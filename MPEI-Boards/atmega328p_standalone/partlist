@@ -1,0 +1,33 @@
+Partlist
+
+Exported from atmega328p_standalone.sch at 22/8/2023 00:15:22
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device          Package      Library      Sheet
+
+C1       100n           C-EU025-024X044 C025-024X044 resistor     1
+C2       22p            C-EU025-024X044 C025-024X044 resistor     1
+C3       22p            C-EU025-024X044 C025-024X044 resistor     1
+C4       100n           C-EU025-024X044 C025-024X044 resistor     1
+C5       100n           C-EU025-024X044 C025-024X044 resistor     1
+C6       100u           CPOL-USE2.5-7   E2,5-7       adafruit     1
+C7       100u           CPOL-USE2.5-7   E2,5-7       adafruit     1
+D1       1N4004         1N4004          DO41-10      diode        1
+D2       1N4004         1N4004          DO41-10      diode        1
+DC1      DC21MMX        DC21MMX         DC-21MM      powersupply  1
+IC1      ATMEGA8        AT90S4433P      DIL28-3      atmel        1
+IC2      7805           78MXXS          78MXXS       v-reg        1
+J1                      PINHD-1X8       1X08         pinhead      1
+J2                      PINHD-1X6       1X06         pinhead      1
+J3                      PINHD-1X8       1X08         pinhead      1
+JP1                     M06SIP          1X06         SparkFun(1)  1
+JP2                     M06SIP          1X06         SparkFun(1)  1
+ON                      LED3MM          LED3MM       led          1
+POWER                   PINHD-1X4       1X04         pinhead      1
+Q1                      XTAL/S          QS           special      1
+R2       220            R-EU_0207/10    0207/10      rcl          1
+R5       10k            R-EU_0207/10    0207/10      rcl          1
+RESET                   10-XX           B3F-10XX     switch-omron 1
